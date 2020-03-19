@@ -1,0 +1,13 @@
+.AccountRecovery{
+  padding: 90px 0;
+  margin: 0 auto;
+  max-height: 1000px;
+  max-width: 500px;
+  text-align: center;
+}
+
+.AccountRecovery form {
+  margin: 0 auto;
+  padding: 50px 0;
+  max-width: 500px;
+}
